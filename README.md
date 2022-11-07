@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
-  - [PCI-DSS Projects](https:)
+  - [Cybersecurity Projects](https:)
 
 
 
