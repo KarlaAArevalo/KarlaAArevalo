@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 PCI-DSS Projects:</h2>
 
-  - [PCI Configurations](https://github.com/KarlaAArevalo/PCI-DSS-Projects)
+  - [PCI-DSS Gap Analysis ](https://github.com/KarlaAArevalo/PCI-DSS-Projects)
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
