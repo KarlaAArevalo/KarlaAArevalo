@@ -1,6 +1,6 @@
 <h1>Hello,I'm Karla! Cybersecurity professional
 
-<h2>👨‍💻 PCI-DSS Projects]</h2>
+<h2>👨‍💻 PCI-DSS Projects:</h2>
 
   - [PCI Configurations](https://github.com/KarlaAArevalo/PCI-DSS-Projects)
 
