@@ -14,7 +14,7 @@
   - [Create a Azure Account and Deploy a Virtual Machine (VM)](https://github.com/KarlaAArevalo/Azure-Account-and-Deploy-VM/tree/main)
   - [Virtual Private Network](https://github.com/KarlaAArevalo/VPN)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/KarlaAArevalo/Azure-Network-Protocols/tree/main)
-  
+  - [Configuring ON-premises Active Directory within Azur VMs]()
   
 <h2>🤳Connect with me:</h2>
 
