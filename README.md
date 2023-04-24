@@ -11,7 +11,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/karlaaarevalo/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/karlaaarevalo/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/karlaaarevalo/configure-ad)
+  - [Create a Azure Account and Deploy a Virtual Machine (VM)](https://github.com/KarlaAArevalo/Azure-Account-and-Deploy-VM/tree/main)
   - [Virtual Private Network](https://github.com/KarlaAArevalo/VPN)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/karlaaarevalo/azure-network-protols)
   
