@@ -12,7 +12,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/karlaaarevalo/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/karlaaarevalo/configure-ad)
-  - [Virtual Private Network](https://github.com/karlaaarevalo/configure-ad)
+  - [Virtual Private Network](https://github.com/KarlaAArevalo/VPN)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/karlaaarevalo/azure-network-protols)
   
   
