@@ -12,9 +12,10 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/karlaaarevalo/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/karlaaarevalo/configure-ad)
+  - [Virtual Private Network](https://github.com/karlaaarevalo/)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/karlaaarevalo/azure-network-protols)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/karlaaarevalo/azure-network-protocols)
-
+  
+  
 <h2>🤳Connect with me:</h2>
 
 <img align="left" alt="Karla | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
