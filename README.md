@@ -1,4 +1,4 @@
-<h1>Hello,I'm Karla! Cybersecurity professional
+<h1>Hello, I'm Karla! Cybersecurity professional
 
 <h2>👨‍💻 PCI-DSS Projects:</h2>
 
